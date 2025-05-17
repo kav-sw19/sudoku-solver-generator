@@ -1,6 +1,6 @@
-![🔢Sudoku_2-in-1 (1)](https://github.com/user-attachments/assets/c1684da3-e752-4338-b8bc-7a862dec6f06)
 
 # SudoGuru - Sudoku Solver and Generator
+![🔢Sudoku_2-in-1 (1)](https://github.com/user-attachments/assets/c1684da3-e752-4338-b8bc-7a862dec6f06)
 
 ## Overview
 
